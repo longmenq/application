@@ -6,3 +6,6 @@ spring:
    jackson:
       date-format: yyyy-MM-dd HH:mm:ss
       time-zone: GMT+8
+wangYiYun:
+      appKey: 2eccb6cc20e3abf799578bb10e2555df
+      appSecret: 8b0a42a94ca9
