@@ -1,0 +1,8 @@
+spring:
+   http:
+     encoding:
+        charset: UTF-8
+        enabled: true
+   jackson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8
